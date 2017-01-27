@@ -1,0 +1,6 @@
+{
+    "require": {
+        "maknz/slack": "^1.7",
+        "andrewevansmith/php-craigslist-api-utility": "dev-master"
+    }
+}
